@@ -1,4 +1,4 @@
-/* Глобални стилове */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: Arial, sans-serif; 
     background-color: #f4f6f8;
     color: #333;
     line-height: 1.6;
@@ -17,7 +17,7 @@ a {
     color: inherit;
 }
 
-/* Navbar */
+
 .navbar {
     background-color: #333;
     padding: 15px 0;
@@ -75,7 +75,7 @@ a {
     background-color: #ffc107;
 }
 
-/* Hero секция */
+
 .hero-section {
     background: linear-gradient(135deg, #007bff, #00c6ff);
     height: 80vh;
@@ -117,7 +117,7 @@ a {
     color: white;
 }
 
-/* Секция "За мен" */
+
 .about-section {
     background-color: white;
     padding: 60px 20px;
@@ -140,7 +140,7 @@ a {
     animation: fadeIn 1.5s ease-in-out 1.5s;
 }
 
-/* Footer */
+
 .footer {
     background-color: #333;
     color: white;
@@ -148,7 +148,6 @@ a {
     text-align: center;
 }
 
-/* Анимации */
 @keyframes fadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
