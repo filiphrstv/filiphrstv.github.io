@@ -124,13 +124,8 @@ a {
     text-align: center;
 }
 
-.about-section h2 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-    font-weight: 600;
-    color: #007bff;
-    animation: fadeIn 1.5s ease-in-out 1s;
-}
+
+
 
 .about-section p {
     font-size: 1.2rem;
